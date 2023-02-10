@@ -16,7 +16,7 @@ Online judge system - https://judge.softuni.org/
 - [Error handling](https://github.com/zahariev-webbersof/SoftUni-Advanced-2023-01/tree/main/error_handling)
 - [Workshop](https://github.com/zahariev-webbersof/SoftUni-Advanced-2023-01/tree/main/Workshop)
 - [Modules](https://github.com/zahariev-webbersof/SoftUni-Advanced-2023-01/tree/main/modules_lab)
-- [Exam preparation](https://github.com/zahariev-webbersof/SoftUni-Advanced-2023-01)
+- [Exam preparation](https://github.com/zahariev-webbersof/SoftUni-Advanced-2023-01/tree/main/exam_preparation)
 
 ## Additional resources
 
